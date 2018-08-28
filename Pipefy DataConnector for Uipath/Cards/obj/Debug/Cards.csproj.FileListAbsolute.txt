@@ -1,0 +1,12 @@
+c:\users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipefy\bin\Debug\Cards.dll
+c:\users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipefy\bin\Debug\Cards.pdb
+c:\users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipefy\bin\Debug\Newtonsoft.Json.dll
+c:\users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipefy\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+c:\users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipefy\obj\Debug\Cards.dll
+c:\users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipefy\obj\Debug\Cards.pdb
+C:\Users\lpimenta\Desktop\Lucas Pimenta - Pipefy Data Connector for Uipath\Pipefy\bin\Debug\Cards.dll
+C:\Users\lpimenta\Desktop\Lucas Pimenta - Pipefy Data Connector for Uipath\Pipefy\bin\Debug\Cards.pdb
+C:\Users\lpimenta\Desktop\Lucas Pimenta - Pipefy Data Connector for Uipath\Pipefy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lpimenta\Desktop\Lucas Pimenta - Pipefy Data Connector for Uipath\Pipefy\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\lpimenta\Desktop\Lucas Pimenta - Pipefy Data Connector for Uipath\Pipefy\obj\Debug\Cards.dll
+C:\Users\lpimenta\Desktop\Lucas Pimenta - Pipefy Data Connector for Uipath\Pipefy\obj\Debug\Cards.pdb

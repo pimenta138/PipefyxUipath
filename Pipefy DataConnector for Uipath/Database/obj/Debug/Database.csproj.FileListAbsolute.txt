@@ -1,0 +1,5 @@
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Database\bin\Debug\Database.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Database\bin\Debug\Database.pdb
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Database\bin\Debug\Newtonsoft.Json.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Database\obj\Debug\Database.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Database\obj\Debug\Database.pdb

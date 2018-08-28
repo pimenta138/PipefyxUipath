@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "Pipefy DataConnector for Uipath\Cards\Cards.csproj", "{6C4A0045-74B8-4703-968B-ABF3C102388F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipes", "Pipefy DataConnector for Uipath\Pipes\Pipes.csproj", "{DE4115AD-9C62-4C7E-A513-12A188DCFFB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phases", "Pipefy DataConnector for Uipath\Phases\Phases.csproj", "{EDEEB375-519E-41E1-9759-C7A6530D60E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organization", "Pipefy DataConnector for Uipath\Organization\Organization.csproj", "{296C9BED-0CAB-441B-93A7-38F70C751430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Pipefy DataConnector for Uipath\Database\Database.csproj", "{9F228C48-88F3-4369-B3E0-F6F535426A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4A0045-74B8-4703-968B-ABF3C102388F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4A0045-74B8-4703-968B-ABF3C102388F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4A0045-74B8-4703-968B-ABF3C102388F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4A0045-74B8-4703-968B-ABF3C102388F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4115AD-9C62-4C7E-A513-12A188DCFFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4115AD-9C62-4C7E-A513-12A188DCFFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4115AD-9C62-4C7E-A513-12A188DCFFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4115AD-9C62-4C7E-A513-12A188DCFFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEEB375-519E-41E1-9759-C7A6530D60E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEEB375-519E-41E1-9759-C7A6530D60E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEEB375-519E-41E1-9759-C7A6530D60E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEEB375-519E-41E1-9759-C7A6530D60E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296C9BED-0CAB-441B-93A7-38F70C751430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296C9BED-0CAB-441B-93A7-38F70C751430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296C9BED-0CAB-441B-93A7-38F70C751430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296C9BED-0CAB-441B-93A7-38F70C751430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F228C48-88F3-4369-B3E0-F6F535426A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F228C48-88F3-4369-B3E0-F6F535426A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F228C48-88F3-4369-B3E0-F6F535426A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F228C48-88F3-4369-B3E0-F6F535426A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

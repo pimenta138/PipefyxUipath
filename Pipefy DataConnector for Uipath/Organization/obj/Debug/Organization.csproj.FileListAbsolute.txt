@@ -1,0 +1,6 @@
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Organization\bin\Debug\Organization.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Organization\bin\Debug\Organization.pdb
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Organization\bin\Debug\Newtonsoft.Json.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Organization\obj\Debug\Organization.csprojResolveAssemblyReference.cache
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Organization\obj\Debug\Organization.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Organization\obj\Debug\Organization.pdb

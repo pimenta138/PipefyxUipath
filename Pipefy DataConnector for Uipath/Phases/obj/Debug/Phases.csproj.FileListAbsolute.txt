@@ -1,0 +1,6 @@
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Phases\bin\Debug\Phases.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Phases\bin\Debug\Phases.pdb
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Phases\bin\Debug\Newtonsoft.Json.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Phases\obj\Debug\Phases.csprojResolveAssemblyReference.cache
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Phases\obj\Debug\Phases.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Phases\obj\Debug\Phases.pdb

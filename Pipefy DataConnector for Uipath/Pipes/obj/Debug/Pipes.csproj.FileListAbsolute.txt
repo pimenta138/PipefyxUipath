@@ -1,0 +1,6 @@
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipes\bin\Debug\Pipes.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipes\bin\Debug\Pipes.pdb
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipes\bin\Debug\Newtonsoft.Json.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipes\obj\Debug\Pipes.csprojResolveAssemblyReference.cache
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipes\obj\Debug\Pipes.dll
+c:\Users\lpimenta\documents\visual studio 2013\Projects\Pipefy\Pipes\obj\Debug\Pipes.pdb
